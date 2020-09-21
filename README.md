@@ -170,7 +170,10 @@ Agora, os nenúfares nas bordas foram levados para a costa, aumentando o espaço
  <summary>Código CSS</summary>
 
 ```css
-
+#pond {
+    display: flex;
+    justify-content: space-between;
+}
 ```
 
 </details>

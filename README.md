@@ -354,13 +354,20 @@ Ajude as rãs a encontrar sua coluna de nenúfares usando flex-direction. Esta p
 
 ### 10°
 
+Ajude as rãs a pegar seus próprios nenúfares. Embora pareçam próximos, vai demorar tanto flex-directione justify-contentpara levá-los lá.
+Observe que, ao definir a direção para uma linha ou coluna invertida, o início e o fim também são invertidos.
+
 #### Resposta:
 
 <details>
  <summary>Código CSS</summary>
 
 ```css
-
+#pond {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
 ```
 
 </details>

@@ -446,13 +446,20 @@ Ajude as rãs a encontrar seus nenúfares usando flex-directione justify-content
 
 ### 13°
 
+Ajude as rãs encontrar seus lilypads usando flex-direction, justify-contente align-items.
+
 #### Resposta:
 
 <details>
  <summary>Código CSS</summary>
 
 ```css
-
+#pond {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: flex-end;
+}
 ```
 
 </details>

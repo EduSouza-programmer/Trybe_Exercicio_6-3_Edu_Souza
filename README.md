@@ -226,13 +226,19 @@ Agora use align-items para ajudar as rãs a chegarem ao fundo do tanque. Esta pr
 
 ### 6°
 
+Conduza o sapo para o centro da lagoa usando uma combinação de justify-contente align-items.
+
 #### Resposta:
 
 <details>
  <summary>Código CSS</summary>
 
 ```css
-
+#pond {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 ```
 
 </details>

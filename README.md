@@ -286,13 +286,23 @@ Os sapos precisam cruzar o lago novamente, desta vez para alguns nenúfares com 
 
 ### 8°
 
+As rãs precisam ficar na mesma ordem que seus nenúfares usando flex-direction. Esta propriedade CSS define a direção em que os itens são colocados no contêiner e aceita os seguintes valores:
+
+-   row: Os itens são colocados da mesma forma que a direção do texto.
+-   row-reverse: Os itens são posicionados opostos à direção do texto.
+-   column: Os itens são colocados de cima para baixo.
+-   column-reverse: Os itens são colocados de baixo para cima.
+
 #### Resposta:
 
 <details>
  <summary>Código CSS</summary>
 
 ```css
-
+#pond {
+    display: flex;
+    flex-direction: row-reverse;
+}
 ```
 
 </details>

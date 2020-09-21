@@ -256,13 +256,19 @@ Conduza o sapo para o centro da lagoa usando uma combinação de justify-content
 
 ### 7°
 
+Os sapos precisam cruzar o lago novamente, desta vez para alguns nenúfares com bastante espaço ao redor deles. Usando uma combinação de justify-contente align-items.
+
 #### Resposta:
 
 <details>
  <summary>Código CSS</summary>
 
 ```css
-
+#pond {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
 ```
 
 </details>

@@ -97,13 +97,24 @@ For example, justify-content: flex-end; will move the frog to the right.
 
 ### 2°
 
+Use justify-contentnovamente para ajudar essas rãs a chegarem aos nenúfares. Lembre-se de que essa propriedade CSS alinha os itens horizontalmente e aceita os seguintes valores:
+
+-   flex-start: Os itens são alinhados à esquerda do contêiner.
+-   flex-end: Os itens são alinhados ao lado direito do contêiner.
+-   center: Os itens são alinhados no centro do contêiner.
+-   space-between: Os itens são exibidos com espaçamento igual entre eles.
+-   space-around: Os itens são exibidos com espaçamento igual ao redor deles.
+
 #### Resposta:
 
 <details>
  <summary>Código CSS</summary>
 
 ```css
-
+#pond {
+    display: flex;
+    justify-content: center;
+}
 ```
 
 </details>

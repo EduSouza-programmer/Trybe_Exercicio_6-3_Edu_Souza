@@ -132,13 +132,19 @@ Use justify-contentnovamente para ajudar essas rãs a chegarem aos nenúfares. L
 
 ### 3°
 
+Ajude os três sapos a encontrar seus nenúfares apenas usando justify-content. Desta vez, os nenúfares têm muito espaço ao seu redor.
+Se você se esquecer dos valores possíveis para uma propriedade, passe o mouse sobre o nome da propriedade para visualizá-los. Experimente pairar sobre justify-content.
+
 #### Resposta:
 
 <details>
  <summary>Código CSS</summary>
 
 ```css
-
+#pond {
+    display: flex;
+    justify-content: space-around;
+}
 ```
 
 </details>

@@ -162,6 +162,8 @@ Se você se esquecer dos valores possíveis para uma propriedade, passe o mouse 
 
 ### 4°
 
+Agora, os nenúfares nas bordas foram levados para a costa, aumentando o espaço entre eles. Use justify-content. Desta vez, os nenúfares têm espaçamento igual entre eles.
+
 #### Resposta:
 
 <details>

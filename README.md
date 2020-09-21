@@ -416,13 +416,19 @@ Observe que quando a direção flexível é uma coluna, justify-content muda par
 
 ### 12°
 
+Ajude as rãs a encontrar seus nenúfares usando flex-directione justify-content.
+
 #### Resposta:
 
 <details>
  <summary>Código CSS</summary>
 
 ```css
-
+#pond {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+}
 ```
 
 </details>

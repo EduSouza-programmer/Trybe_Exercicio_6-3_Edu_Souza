@@ -191,13 +191,24 @@ Agora, os nenúfares nas bordas foram levados para a costa, aumentando o espaço
 
 ### 5°
 
+Agora use align-items para ajudar as rãs a chegarem ao fundo do tanque. Esta propriedade CSS alinha os itens verticalmente e aceita os seguintes valores:
+
+-   flex-start: Os itens são alinhados ao topo do contêiner.
+-   flex-end: Os itens são alinhados ao fundo do recipiente.
+-   center: Os itens são alinhados no centro vertical do contêiner.
+-   baseline: Os itens são exibidos na linha de base do contêiner.
+-   stretch: Os itens são esticados para caber no contêiner.
+
 #### Resposta:
 
 <details>
  <summary>Código CSS</summary>
 
 ```css
-
+#pond {
+    display: flex;
+    align-items: flex-end;
+}
 ```
 
 </details>

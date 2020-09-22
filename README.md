@@ -47,7 +47,7 @@ Como os exercícios serão feitos na própria plataforma, crie um diretório em 
 
 ### Sumário
 
-##### Parte-1
+#### Parte-1
 
 -   <p><a href="#1">1.</a> Bem-vindo ao Flexbox Froggy, um jogo onde você ajuda Froggy e seus amigos escrevendo...</p>
 
@@ -74,10 +74,6 @@ Como os exercícios serão feitos na própria plataforma, crie um diretório em 
 -   <p><a href="#12">12.</a> Ajude as rãs a encontrar seus nenúfares usando flex-directione justify-content.</p>
 
 -   <p><a href="#13">13.</a> Ajude as rãs encontrar seus lilypads usando flex-direction, justify-contente align-items.</p>
-
-### **_Projetos_**
-
--   <p><a href="#Project_1">Projeto_1:</a> Convite de evento;</p>
 
 #
 

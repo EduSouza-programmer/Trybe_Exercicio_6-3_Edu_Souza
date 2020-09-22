@@ -46,9 +46,33 @@ Como os exercícios serão feitos na própria plataforma, crie um diretório em 
 
 ### Sumário
 
--   <p><a href="#1">1.</a> Welcome to Flexbox Froggy, a game where you help Froggy and friends by writing CSS code! Guide this frog...</p>
+##### Parte-1
 
--   <p><a href="#2">2.</a> Welcome to Flexbox Froggy, a game where you help Froggy and friends by writing CSS code! Guide this frog...</p>
+-   <p><a href="#1">1.</a> Bem-vindo ao Flexbox Froggy, um jogo onde você ajuda Froggy e seus amigos escrevendo...</p>
+
+-   <p><a href="#2">2.</a> Use justify-contentnovamente para ajudar essas rãs a chegarem aos nenúfares...</p>
+
+-   <p><a href="#3">3.</a> Ajude os três sapos a encontrar seus nenúfares apenas usando justify-content. Desta vez...</p>
+
+-   <p><a href="#4">4.</a> Agora, os nenúfares nas bordas foram levados para a costa, aumentando o espaço...</p>
+
+-   <p><a href="#5">5.</a> Agora use align-items para ajudar as rãs a chegarem ao fundo do tanque...</p>
+
+-   <p><a href="#6">6.</a> Conduza o sapo para o centro da lagoa usando uma combinação de justify-contente align-items.</p>
+
+-   <p><a href="#7">7.</a> Os sapos precisam cruzar o lago novamente, desta vez para alguns nenúfares...</p>
+
+-   <p><a href="#8">8.</a> As rãs precisam ficar na mesma ordem que seus nenúfares usando flex-direction. Esta...</p>
+
+-   <p><a href="#9">9.</a> Ajude as rãs a encontrar sua coluna de nenúfares usando flex-direction. Esta propriedade...</p>
+
+-   <p><a href="#10">10.</a> Ajude as rãs a pegar seus próprios nenúfares. Embora pareçam próximos...</p>
+
+-   <p><a href="#11">11.</a> Ajude as rãs a encontrar seus nenúfares usando flex-directione...</p>
+
+-   <p><a href="#12">12.</a> Ajude as rãs a encontrar seus nenúfares usando flex-directione justify-content.</p>
+
+-   <p><a href="#13">13.</a> Ajude as rãs encontrar seus lilypads usando flex-direction, justify-contente align-items.</p>
 
 ### **_Projetos_**
 
@@ -60,15 +84,15 @@ Como os exercícios serão feitos na própria plataforma, crie um diretório em 
 
 ### 1°
 
-Welcome to Flexbox Froggy, a game where you help Froggy and friends by writing CSS code! Guide this frog to the lilypad on the right by using the justify-content property, which aligns items horizontally and accepts the following values:
+Bem-vindo ao Flexbox Froggy, um jogo onde você ajuda Froggy e seus amigos escrevendo código CSS! Guie este sapo até a vitória-régia à direita usando a justify-contentpropriedade, que alinha os itens horizontalmente e aceita os seguintes valores:
 
--   flex-start: Items align to the left side of the container.
--   flex-end: Items align to the right side of the container.
--   center: Items align at the center of the container.
--   space-between: Items display with equal spacing between them.
--   space-around: Items display with equal spacing around them.
+-   flex-start: Os itens são alinhados à esquerda do contêiner.
+-   flex-end: Os itens são alinhados ao lado direito do contêiner.
+-   center: Os itens são alinhados no centro do contêiner.
+-   space-between: Os itens são exibidos com espaçamento igual entre eles.
+-   space-around: Os itens são exibidos com espaçamento igual ao redor deles.
 
-For example, justify-content: flex-end; will move the frog to the right.
+Por exemplo, justify-content: flex-end;moverá o sapo para a direita.
 
 #### Resposta:
 
